@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "test:staged": "jest",
-    "jest:clear-cache": "jest --clearCache"
+    "jest:clear-cache": "jest --clearCache",
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
